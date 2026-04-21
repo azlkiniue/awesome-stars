@@ -1297,6 +1297,8 @@
 
 ## Python 
 
+- [itbench-hub/ITBench](https://github.com/itbench-hub/ITBench) - An open source benchmarking framework for IT automation
+- [microsoft/AIOpsLab](https://github.com/microsoft/AIOpsLab) - A holistic framework to enable the design, development, and evaluation of autonomous AIOps agents.
 - [realityinspector/teeny-tiny-t9](https://github.com/realityinspector/teeny-tiny-t9) - a teeny tiny shape that unfolds to t9 through Inverse Morphogenic Training (IMT)
 - [SweepSweep2/GDDrive](https://github.com/SweepSweep2/GDDrive) - Cloud Storage Implemented in Geometry Dash
 - [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
@@ -2090,7 +2092,7 @@
 - [WGDashboard/WGDashboard](https://github.com/WGDashboard/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
-- [forthebadge/for-the-badge](https://github.com/forthebadge/for-the-badge) - It all started because of an obsession with two words: “build passing”. It all ended with this: badges, for badges’ sake.
+- [andrewsbarbaro/for-the-badge](https://github.com/andrewsbarbaro/for-the-badge) - It all started because of an obsession with two words: “build passing”. It all ended with this: badges, for badges’ sake.
 - [zachwinter/kaleidosync](https://github.com/zachwinter/kaleidosync) - A WebGL Spotify visualizer made with Vue, D3, and Three.js.
 - [socketio/socket.io-admin-ui](https://github.com/socketio/socket.io-admin-ui) - Admin UI for Socket.IO
 - [anydown/mangadown](https://github.com/anydown/mangadown) - Twitter-jp-style manga maker
