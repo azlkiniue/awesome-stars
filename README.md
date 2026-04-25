@@ -725,7 +725,6 @@
 - [Myphz/sortvisualizer](https://github.com/Myphz/sortvisualizer) - Sort Visualizer Web App
 - [lklynet/hypermind](https://github.com/lklynet/hypermind) - The High-Availability Solution to a Problem That Doesn't Exist.
 - [popovicu/ultimate-linux](https://github.com/popovicu/ultimate-linux) - The Ultimate Linux micro distribution written in JavaScript! A very functional minimal userspace for Linux written in... pure JavaScript! Not quite, but almost. It's good, I promise!
-- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Machine Learning Systems
 - [CodapopKSP/LibraryOfTime](https://github.com/CodapopKSP/LibraryOfTime) - A website that displays the current time in various calendars and timekeeping systems from all over the world and throughout history.
 - [jeffpar/pcjs](https://github.com/jeffpar/pcjs) - The original IBM PC and other machine emulations in JavaScript
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
@@ -1310,6 +1309,7 @@
 - [teorth/erdosproblems](https://github.com/teorth/erdosproblems) - A community database for the problems on the erdosproblems.com site
 - [softcane/KubeAttention](https://github.com/softcane/KubeAttention) - KubeAttention is a residency-aware scheduler plugin that uses machine learning to detect and avoid noisy neighbor interference.
 - [modal-labs/gpu-glossary](https://github.com/modal-labs/gpu-glossary) - GPU documentation for humans
+- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Machine Learning Systems
 - [Quenary/tugtainer](https://github.com/Quenary/tugtainer) - An application for automated Docker container updates with a web UI
 - [letsdiscodev/disco-daemon](https://github.com/letsdiscodev/disco-daemon) - 
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
