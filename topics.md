@@ -42,6 +42,7 @@
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude](#claude)
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [cloud](#cloud)
@@ -158,6 +159,7 @@
 - [languages](#languages)
 - [laravel](#laravel)
 - [latex](#latex)
+- [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -301,7 +303,6 @@
 - [xcode](#xcode)
 - [xml](#xml)
 - [youtube](#youtube)
-- [zig](#zig)
 - [zsh](#zsh)
 
 ## 3d 
@@ -528,6 +529,7 @@
 
 ## arduino 
 
+- [olikraus/u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 
 ## artificial-intelligence 
@@ -836,7 +838,7 @@
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚 Secure remote browsing anywhere, any way you like it.
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚🇺🇸🗽Secure remote browsing anywhere, any way you like it.
 - [FooSoft/yomichan](https://github.com/FooSoft/yomichan) - Japanese pop-up dictionary extension for Chrome and Firefox.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
@@ -854,6 +856,21 @@
 - [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [habitlab/habitlab](https://github.com/habitlab/habitlab) - Build better habits online! Tell HabitLab your goals, and it will determine the appropriate interventions via experimentation.
+
+## claude 
+
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+- [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agen
+- [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
+- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 
 ## claude-code 
 
@@ -1130,7 +1147,7 @@
 - [mitre-attack/attack-stix-data](https://github.com/mitre-attack/attack-stix-data) - STIX data representing MITRE ATT&CK
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [Hey-Telo/admyral](https://github.com/Hey-Telo/admyral) - 🤖 Admyral enables continuous control monitoring for any custom control
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚 Secure remote browsing anywhere, any way you like it.
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚🇺🇸🗽Secure remote browsing anywhere, any way you like it.
 - [cyb3rxp/awesome-soc](https://github.com/cyb3rxp/awesome-soc) - A curated knowledge base to build, run and mature a SOC (including CSIRT).
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
@@ -1382,6 +1399,7 @@
 
 ## docker 
 
+- [Augani/dory](https://github.com/Augani/dory) - A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Universal for Intel and Apple silicon.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [upsetdev/stak](https://github.com/upsetdev/stak) - Visualize your Kubernetes manifests and Docker Compose files into a clear, interactive topology map.
@@ -1636,6 +1654,7 @@
 
 ## font 
 
+- [olikraus/u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [opentypejs/opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
@@ -1779,6 +1798,7 @@
 
 ## go 
 
+- [Drenzzz/ADBKit](https://github.com/Drenzzz/ADBKit) - A simple, modern GUI for ADB, Fastboot and Scrcpy
 - [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) - Simplifies IPv4/IPv6 CIDR network prefix management with counting, overlap checking, explanation, and subdivision.
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer)
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
@@ -2288,7 +2308,7 @@
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [google/open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
-- [JohannesNE/literature-clock](https://github.com/JohannesNE/literature-clock) - Clock using time quotes from the literature, based on the work of Jaap Meijers
+- [JohsEnevoldsen/literature-clock](https://github.com/JohsEnevoldsen/literature-clock) - Clock using time quotes from the literature, based on the work of Jaap Meijers
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
@@ -2456,7 +2476,7 @@
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [zufardhiyaulhaq/kato](https://github.com/zufardhiyaulhaq/kato) - Kubernetes troubleshooting workflow
 - [upsetdev/stak](https://github.com/upsetdev/stak) - Visualize your Kubernetes manifests and Docker Compose files into a clear, interactive topology map.
-- [last9/gpu-telemetry](https://github.com/last9/gpu-telemetry) - GPU telemetry with workload attribution. One OTLP agent per node ties hardware metrics (NVIDIA, AMD, Intel Gaudi) to the K8s pod or Slurm job burning the GPU.
+- [last9/gpu-telemetry](https://github.com/last9/gpu-telemetry) - GPU Observability with workload attribution. One OTLP agent per node ties hardware metrics (NVIDIA, AMD, Intel Gaudi) to the K8s pod or Slurm job burning the GPU.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [yashbhutwala/kubectl-df-pv](https://github.com/yashbhutwala/kubectl-df-pv) - kubectl plugin - giving admins df (disk free) like utility for persistent volumes
@@ -2590,6 +2610,12 @@
 ## latex 
 
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
+
+## learn-to-code 
+
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 
 ## learning 
 
@@ -2779,6 +2805,7 @@
 
 ## macos 
 
+- [Augani/dory](https://github.com/Augani/dory) - A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Universal for Intel and Apple silicon.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
@@ -3223,6 +3250,7 @@
 
 ## others 
 
+- [frog23/TomScottMap](https://github.com/frog23/TomScottMap) - A unofficial map of the videos created by Tom Scott. See his Youtube channel for the complete list of videos (including those that are not geo-referenceable).
 - [amadvance/snapraid](https://github.com/amadvance/snapraid) - A backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures
 - [agoodway/postgresisenough](https://github.com/agoodway/postgresisenough) - Postgres Is Enough
 - [little-book-of/algorithms](https://github.com/little-book-of/algorithms) - Bake a cake with care, follow steps the recipe gives, that’s an algorithm.
@@ -3236,8 +3264,7 @@
 - [JoshuaSoileau/Favicons](https://github.com/JoshuaSoileau/Favicons) - Turn emojis into Favicons
 - [olegpolin/neobrutalism-svelte](https://github.com/olegpolin/neobrutalism-svelte) - 
 - [ricoerian/aimathlab](https://github.com/ricoerian/aimathlab) - AI Math Lab is an interactive, browser-based visual laboratory designed to build deep, geometric intuition for the core mathematical principles underlying modern artificial intelligence and machine le
-- [PaulStSmith/WorldMapWallpaper](https://github.com/PaulStSmith/WorldMapWallpaper) - Dynamically generates world maps with real-time day/night cycles, time zone clocks, and live International Space Station tracking. It features a theme-aware settings interface, intelligent wallpaper m
-- [i-c-stratigraphy/chart](https://github.com/i-c-stratigraphy/chart) - 
+- [i-c-stratigraphy/chart](https://github.com/i-c-stratigraphy/chart) - This repository contains RDF data and Javascript (Vue.js) code used to generate the online official International Chronostratigraphic Chart
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [DanielMcFluffy/couchdb-system-metrics-exporter](https://github.com/DanielMcFluffy/couchdb-system-metrics-exporter) - 
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
@@ -3254,7 +3281,7 @@
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, enc
 - [Spu7Nix/obamify](https://github.com/Spu7Nix/obamify) - revolutionary new technology that turns any image into obama
 - [mattred1/random-excuse-generator](https://github.com/mattred1/random-excuse-generator) - Generates a random excuse
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
 - [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) - 
 - [cedi/picokubelet](https://github.com/cedi/picokubelet) - A Rust kubelet that runs on a microcontroller and registers with a real Kubernetes cluster as a worker node
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
@@ -3418,7 +3445,7 @@
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons
 - [AtomicFrontierCode/typefaces](https://github.com/AtomicFrontierCode/typefaces) - font analysis for video
 - [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
-- [JohannesNE/personal-website](https://github.com/JohannesNE/personal-website) - 
+- [JohsEnevoldsen/personal-website](https://github.com/JohsEnevoldsen/personal-website) - 
 - [vicanso/pingap](https://github.com/vicanso/pingap) - A reverse proxy like nginx, built on pingora, simple and efficient.
 - [letta-ai/agent-file](https://github.com/letta-ai/agent-file) - Agent File (.af): An open file format for serializing stateful AI agents with persistent memory and behavior. Share, checkpoint, and version control agents across compatible frameworks.
 - [fufufufafafa/fufufafa-memorable-quotes](https://github.com/fufufufafafa/fufufafa-memorable-quotes) - fufufafa dan kearifan lokal-nya
@@ -4011,7 +4038,7 @@
 
 ## p2p 
 
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 - [lklynet/hypermind](https://github.com/lklynet/hypermind) - The High-Availability Solution to a Problem That Doesn't Exist.
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [kairos-io/kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
@@ -4356,7 +4383,7 @@
 
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-- [Drenzzz/ADBKit](https://github.com/Drenzzz/ADBKit) - A simple, modern GUI for ADB and Fastboot
+- [Drenzzz/ADBKit](https://github.com/Drenzzz/ADBKit) - A simple, modern GUI for ADB, Fastboot and Scrcpy
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
@@ -4463,7 +4490,7 @@
 
 - [lakehq/sail](https://github.com/lakehq/sail) - Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [wolfsoftwaresystemsltd/WolfScale](https://github.com/wolfsoftwaresystemsltd/WolfScale) - Free tools for building robust, clustered server infrastructure — WolfStack, WolfScale, WolfDisk, WolfNet
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
@@ -4515,6 +4542,7 @@
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [localfirstapp/1History](https://github.com/localfirstapp/1History) - All your history in one file.
 - [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust dark magics by implementing an expression framework in database systems
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
@@ -4660,7 +4688,7 @@
 - [junobuild/juno](https://github.com/junobuild/juno) - Open-Source SDK for building apps
 - [jamstack/jamstack.org](https://github.com/jamstack/jamstack.org) - The official Jamstack site
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
-- [JohannesNE/literature-clock](https://github.com/JohannesNE/literature-clock) - Clock using time quotes from the literature, based on the work of Jaap Meijers
+- [JohsEnevoldsen/literature-clock](https://github.com/JohsEnevoldsen/literature-clock) - Clock using time quotes from the literature, based on the work of Jaap Meijers
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - ✨ AI-powered markdown editor - leverage LLMs with your documents - 100% local or in the cloud
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
@@ -4807,6 +4835,7 @@
 
 ## swift 
 
+- [Augani/dory](https://github.com/Augani/dory) - A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Universal for Intel and Apple silicon.
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [ggml-org/Llama-macOS](https://github.com/ggml-org/Llama-macOS) - A cosy home for your LLMs.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
@@ -4821,6 +4850,7 @@
 
 ## swiftui 
 
+- [Augani/dory](https://github.com/Augani/dory) - A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Universal for Intel and Apple silicon.
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
@@ -5361,10 +5391,6 @@
 - [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
 - [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang) - The Rick Roll programming language is a rickroll based, process oriented, dynamic, strong, esoteric programming language. All of the keywords/statements are from Rick Astley's lyrics. Check our tutori
 - [akshatmittal/youtube-realtime](https://github.com/akshatmittal/youtube-realtime) - YouTube Realtime Subscriber Count
-
-## zig 
-
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## zsh 
 
