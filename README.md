@@ -95,11 +95,13 @@
 
 ## Astro 
 
+- [JustSteveKing/apiguide.dev](https://github.com/JustSteveKing/apiguide.dev) - The flagship reference site for modern, authoritative API design patterns.
 - [agoodway/postgresisenough](https://github.com/agoodway/postgresisenough) - Postgres Is Enough
 - [miantiao-me/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong](https://github.com/miantiao-me/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong) - Make your URL looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooonger
 - [jenniferlynparsons/selfcaretech](https://github.com/jenniferlynparsons/selfcaretech) - A repository of self-care resources
 - [coollabsio/serverlesshorrors.com](https://github.com/coollabsio/serverlesshorrors.com) - 
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
+- [elixir-lang/elixir-lang.github.com](https://github.com/elixir-lang/elixir-lang.github.com) - Website for Elixir
 - [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
 
 ## AutoHotkey 
@@ -235,7 +237,6 @@
 - [electronicarts/CnC_Red_Alert](https://github.com/electronicarts/CnC_Red_Alert) - Command and Conquer: Red Alert
 - [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - [wilicc/gpu-burn](https://github.com/wilicc/gpu-burn) - Multi-GPU CUDA stress test
-- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [milkdrop2077/MilkDrop3](https://github.com/milkdrop2077/MilkDrop3) - MilkDrop 3.0, supports any audio source, double-preset (.milk2), loading presets based on beat detection and much more...
 - [ttalvitie/browservice](https://github.com/ttalvitie/browservice) - Browservice: Browse the modern web on historical browsers
@@ -296,6 +297,7 @@
 
 ## CSS 
 
+- [corquaid/international-space-station-APIs](https://github.com/corquaid/international-space-station-APIs) - JSON files containing lots of interesting information on the people currently living in space for use in your project.
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [solst-ice/itoa](https://github.com/solst-ice/itoa) - Converts an image to ASCII art
 - [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/.
@@ -312,12 +314,12 @@
 - [erikwiffin/0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004) - Floating Point Math Examples
 - [symkat/MarkdownSite](https://github.com/symkat/MarkdownSite) - Create a website from a git repository in one click
 - [mehulkar/github-hall-of-fame](https://github.com/mehulkar/github-hall-of-fame) - Hall of Fame for spectacular things on Github
+- [mblode/marx](https://github.com/mblode/marx) - The classless CSS reset (perfect for Communists).
 - [PwnFunction/Blank-Rick-Roll](https://github.com/PwnFunction/Blank-Rick-Roll) - Rick Roll website that has hidden code.
 - [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 - [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2026
 - [emmatyping/WSL-Programs](https://github.com/emmatyping/WSL-Programs) - A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux
-- [elixir-lang/elixir-lang.github.com](https://github.com/elixir-lang/elixir-lang.github.com) - Website for Elixir
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [BootstrapDash/corona-free-dark-bootstrap-admin-template](https://github.com/BootstrapDash/corona-free-dark-bootstrap-admin-template) - Free dark admin template based on Bootstrap 4.
 - [ckcollab/chin-up](https://github.com/ckcollab/chin-up) - Track your metrics (motivation, happiness, relationships) and find correlations in your behaviors
@@ -476,7 +478,7 @@
 - [nanmu42/orly](https://github.com/nanmu42/orly) - :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -614,10 +616,10 @@
 - [pchaigno/pchaigno.github.io](https://github.com/pchaigno/pchaigno.github.io) - 
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Customized Cloudflare error page generator. (unofficial)
 - [networkboot/networkboot.github.com](https://github.com/networkboot/networkboot.github.com) - The website networkboot.org
+- [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [wttdotm/heavyweight](https://github.com/wttdotm/heavyweight) - 
 - [paper-design/paper-mono](https://github.com/paper-design/paper-mono) - 
 - [xrstf/kube-api.ninja](https://github.com/xrstf/kube-api.ninja) - A basic website that shows the timeline of Kubernetes Core APIs
-- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
@@ -668,7 +670,6 @@
 - [lethain/staff-eng](https://github.com/lethain/staff-eng) - Collection of stories of how folks have reached Staff-plus roles in technology.
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [PaulJerimy/SecCertRoadmap](https://github.com/PaulJerimy/SecCertRoadmap) - Interactive version of the Security Certification Roadmap found at https://pauljerimy.com/security-certification-roadmap/
-- [mblode/marx](https://github.com/mblode/marx) - The classless CSS reset (perfect for Communists).
 - [ganlanyuan/tiny-slider](https://github.com/ganlanyuan/tiny-slider) - Vanilla javascript slider for all purposes.
 - [legacysurvey/legacysurvey](https://github.com/legacysurvey/legacysurvey) - Nikola source files for https://www.legacysurvey.org.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
@@ -726,6 +727,7 @@
 
 ## JavaScript 
 
+- [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
 - [adiudiuu/tps](https://github.com/adiudiuu/tps) - GPU inference speed calculator — estimate theoretical tokens/s by GPU model, count & quantization
 - [frog23/TomScottMap](https://github.com/frog23/TomScottMap) - A unofficial map of the videos created by Tom Scott. See his Youtube channel for the complete list of videos (including those that are not geo-referenceable).
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -775,6 +777,7 @@
 - [andrew-t/mosaic](https://github.com/andrew-t/mosaic) - Turn images into spreadsheets
 - [sameerdhoot/wolweb](https://github.com/sameerdhoot/wolweb) - Web interface for sending Wake-on-lan (magic packet). An HTTP server built using GoLang and uses Bootstrap for UI.
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
+- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, globa
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [gungunfebrianza/Visual-Hashing](https://github.com/gungunfebrianza/Visual-Hashing) - When programming is bored, you found wrong teacher! Programming is Art.
 - [febryandana/ceph-calculator](https://github.com/febryandana/ceph-calculator) - Storage Calculator for Ceph Cluster
@@ -1032,7 +1035,7 @@
 
 - [PolymathicAI/the_well](https://github.com/PolymathicAI/the_well) - A 15TB Collection of Physics Simulation Datasets
 - [pageman/sutskever-30-implementations](https://github.com/pageman/sutskever-30-implementations) - Sutskever 30 implementations inspired by https://papercode.vercel.app/ | For Agents, use https://github.com/pageman/Sutskever-Agent | Polyglot / Multi-Backed version at https://github.com/pageman/suts
-- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 12 Lessons to Get Started Building AI Agents
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 18 Lessons to Get Started Building AI Agents
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 - [VectorSpaceLab/OmniGen2](https://github.com/VectorSpaceLab/OmniGen2) - OmniGen2: Exploration to Advanced Multimodal Generation. https://arxiv.org/abs/2506.18871
 - [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
@@ -1134,6 +1137,7 @@
 - [loft-sh/vind](https://github.com/loft-sh/vind) - vCluster in Docker (vind) is KinD (Kubernetes in Docker) alternative with additional features. For source code, see loft-sh/vcluster repo linked below.
 - [mozilla/ssl-config-generator](https://github.com/mozilla/ssl-config-generator) - Archived Mozilla SSL Configuration Generator . The code now lives at https://github.com/tlsref/configurator
 - [kepano/40-questions](https://github.com/kepano/40-questions) - Questions that I ask myself at the end of each year and each decade.
+- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [XorDev/Minecraft-Shaderpacks](https://github.com/XorDev/Minecraft-Shaderpacks) - Landing page for Minecraft shaderpacks
 - [secgron/osint.sh](https://github.com/secgron/osint.sh) - https://osint.sh - All in one Information Gathering Tools
 - [Jun-jie-Huang/awesome-LLM-AIOps](https://github.com/Jun-jie-Huang/awesome-LLM-AIOps) - A list of awesome academic researches and industrial materials about Large Language Model (LLM) and Artificial Intelligence for IT Operations (AIOps).
@@ -1229,7 +1233,6 @@
 - [benlk/misc-licenses](https://github.com/benlk/misc-licenses) - A collection of various licenses, with mild commentary upon them.
 - [wp-admin/index.php](https://github.com/wp-admin/index.php) - Alas, GitHub does not run on WordPress. Yet.
 - [kokizzu/list-of-tech-migrations](https://github.com/kokizzu/list-of-tech-migrations) - list of public tech migrations
-- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [decanus/research](https://github.com/decanus/research) - research, notes & ideas on various subjects
 - [facundofarias/awesome-websockets](https://github.com/facundofarias/awesome-websockets) - A curated list of Websocket libraries and resources.
 - [uwu/uwu](https://github.com/uwu/uwu) - uwu
@@ -1319,9 +1322,10 @@
 
 ## Python 
 
+- [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe
 - [modelplaneai/modelplane](https://github.com/modelplaneai/modelplane) - The open source control plane for AI inference
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
-- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [IndopenSource/awesome-indonesia](https://github.com/IndopenSource/awesome-indonesia) - Awesome list of Indonesian open source projects listing on https://indopensource.org/projects and https://tokengratis.id/opensource
 - [last9/gpu-telemetry](https://github.com/last9/gpu-telemetry) - GPU Observability with workload attribution. One OTLP agent per node ties hardware metrics (NVIDIA, AMD, Intel Gaudi) to the K8s pod or Slurm job burning the GPU.
 - [IBM/AssetOpsBench](https://github.com/IBM/AssetOpsBench) - AssetOpsBench - Industry 4.0: A unified benchmark and framework for building, orchestrating, and evaluating domain-specific AI agents for Industry 4.0 asset operations and maintenance, with 460+ scena
@@ -1503,6 +1507,7 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [GoogleCloudPlatform/appengine-guestbook-python](https://github.com/GoogleCloudPlatform/appengine-guestbook-python) - Guestbook is an example application showing basic usage of Google App Engine
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) - The open source repository for Electricity Maps data parsers that powers the world's most comprehensive electricity data platform
 - [Goku-kun/1000-ways-to-print-hello-world-in-python](https://github.com/Goku-kun/1000-ways-to-print-hello-world-in-python) - This is a public repository where the aim is to print "Hello, World!" in all different possible ways.
@@ -1521,6 +1526,7 @@
 - [roligheten/AndroidMediaControlsWindows](https://github.com/roligheten/AndroidMediaControlsWindows) - Python script that hacks in support for Android headset media control support for Windows
 - [astropy/astroquery](https://github.com/astropy/astroquery) - Functions and classes to access online data resources. Maintainers: @keflavich and @bsipocz
 - [lantip/sawa](https://github.com/lantip/sawa) - sawa (ꦱꦮ) is an open source programming language, an interpreter to be precise, where you can write python code using javanese character.
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [alephnull/rfw](https://github.com/alephnull/rfw) - Remote Firewall as a web service. REST API for iptables.
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
@@ -1565,6 +1571,7 @@
 
 ## QML 
 
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [tackelua/AnalogDigitsClock](https://github.com/tackelua/AnalogDigitsClock) - 
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 
@@ -1584,7 +1591,6 @@
 ## Ruby 
 
 - [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - Super simple group chat, without a subscription
 - [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library) - A comprehensive collection of Quran resources
 - [lolcommits/lolcommits](https://github.com/lolcommits/lolcommits) - :camera: git-based selfies for software developers
@@ -1650,6 +1656,7 @@
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [memorysafety/river](https://github.com/memorysafety/river) - This repository is the home of the River reverse proxy application, based on the pingora library from Cloudflare.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
@@ -1738,6 +1745,7 @@
 
 ## Shell 
 
+- [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
 - [toboshii/home-ops](https://github.com/toboshii/home-ops) - My home Kubernetes cluster managed by GitOps (Flux), deployed on Talos Linux.
 - [Stan-breaks/ytsurf](https://github.com/Stan-breaks/ytsurf) - YouTube in your terminal. Clean and distraction-free.
@@ -1749,7 +1757,6 @@
 - [johnalanwoods/maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix) - A collection of modern/faster/greater alternatives to common UNIX commands, which is maintained.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [juxtopposed/Mystical-Blue-Theme](https://github.com/juxtopposed/Mystical-Blue-Theme) - KDE Plasma 6 Blue Theme
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
@@ -1803,7 +1810,7 @@
 
 ## Svelte 
 
-- [olegpolin/neobrutalism-svelte](https://github.com/olegpolin/neobrutalism-svelte) - 
+- [olegpolin/neobrutalism-svelte](https://github.com/olegpolin/neobrutalism-svelte) - Neobrutalism UI components for Svelte, built on shadcn-svelte
 - [samhenrigold/compareig](https://github.com/samhenrigold/compareig) - Analyze your Instagram follower list. See who doesn’t follow you back, who you don’t follow back, and your mutual followers.
 - [SikandarJODD/svelte-animations](https://github.com/SikandarJODD/svelte-animations) - Svelte Magic UI, Svelte Aceternity UI, Svelte Components build using Tailwind CSS & Framer Motion
 - [techniq/svelte-ux](https://github.com/techniq/svelte-ux) - Collection of Svelte components to build highly interactive applications.
@@ -1869,6 +1876,11 @@
 
 ## TypeScript 
 
+- [facebook/astryx](https://github.com/facebook/astryx) - An open source design system that's fully customizable and agent ready
+- [microsoft/flint-chart](https://github.com/microsoft/flint-chart) - 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.
+- [jpettitt/geo-clock-card](https://github.com/jpettitt/geo-clock-card) - A live world clock modeled after Geochron
+- [pocket-stack/pocketjs](https://github.com/pocket-stack/pocketjs) - High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind style engine, and 60 FPS animation under an 8 MB memory budget.
+- [Younesfdj/gitfut](https://github.com/Younesfdj/gitfut) - Your GitHub stats, turned into a World-Cup-style player card
 - [nohello-net/site](https://github.com/nohello-net/site) - 
 - [steipete/birdclaw](https://github.com/steipete/birdclaw) - Stores all your tweets nicely claw-able for agents.
 - [ngrok/webernetes](https://github.com/ngrok/webernetes) - Kubernetes in the browser.
@@ -1877,7 +1889,7 @@
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) - a fast, modern browser for the npm registry
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
-- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, enc
+- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encry
 - [stainlu/codewar](https://github.com/stainlu/codewar) - Compare GitHub contributions like Google Trends. Embeddable SVG chart for your profile README. Zero auth, one line of markdown.
 - [DaMrNelson/github-historical-uptime](https://github.com/DaMrNelson/github-historical-uptime) - Plotting the historical uptime of GitHub
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
@@ -1915,7 +1927,7 @@
 - [isaac-mason/sketches](https://github.com/isaac-mason/sketches) - open source sketches exploring graphics, physics, game ai, interaction, and more
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [gkamradt/agenttrafficcontrol](https://github.com/gkamradt/agenttrafficcontrol) - 
-- [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
+- [remvze/moodist](https://github.com/remvze/moodist) - Ambient sounds for focus and calm.
 - [khromov/svelte-llm-mcp](https://github.com/khromov/svelte-llm-mcp) - Svelte developer documentation as an MCP and in llms.txt format
 - [nilbuild/driver.js](https://github.com/nilbuild/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
@@ -2001,7 +2013,7 @@
 - [SaltyAom/react-but-thai](https://github.com/SaltyAom/react-but-thai) - React but it's Thai
 - [fresh-app/factory](https://github.com/fresh-app/factory) - We produce freshly-baked apps every midnight
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+- [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [revolist/revogrid](https://github.com/revolist/revogrid) - Powerful virtual data table smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋
 - [QuantGeekDev/lmaolang](https://github.com/QuantGeekDev/lmaolang) - 👏🏼A👏🏼brand👏🏼new👏🏼way👏🏼to👏🏼write👏🏼HTML👏🏼
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
@@ -2088,7 +2100,6 @@
 - [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [grid-js/gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
 - [lynn/hello](https://github.com/lynn/hello) - Word-guessing game
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -2156,7 +2167,6 @@
 ## Vue 
 
 - [i-c-stratigraphy/chart](https://github.com/i-c-stratigraphy/chart) - This repository contains RDF data and Javascript (Vue.js) code used to generate the online official International Chronostratigraphic Chart
-- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, globa
 - [i-c-stratigraphy/interactive-geological-timescale](https://github.com/i-c-stratigraphy/interactive-geological-timescale) - 
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [WGDashboard/WGDashboard](https://github.com/WGDashboard/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
