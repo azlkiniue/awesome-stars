@@ -345,6 +345,7 @@
 
 ## ai 
 
+- [llm-d/llm-d](https://github.com/llm-d/llm-d) - Achieve state of the art inference performance with modern accelerators on Kubernetes
 - [modelplaneai/modelplane](https://github.com/modelplaneai/modelplane) - The open source control plane for AI inference
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [last9/gpu-telemetry](https://github.com/last9/gpu-telemetry) - GPU Observability with workload attribution. One OTLP agent per node ties hardware metrics (NVIDIA, AMD, Intel Gaudi) to the K8s pod or Slurm job burning the GPU.
@@ -414,6 +415,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hosted workflow orchestration in one binary. YAML DAGs, cron, AI agent steps, Web UI. Lightweight Airflow alternative, no database.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
@@ -886,6 +888,7 @@
 
 ## claude-code 
 
+- [danilo-znamerovszkij/draw-your-font](https://github.com/danilo-znamerovszkij/draw-your-font) - Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
@@ -1232,7 +1235,7 @@
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
-- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A course of building an LSM-Tree storage engine (database) in a week.
+- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - learn database internals by building a storage engine in Rust
 - [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [SPLWare/esProc](https://github.com/SPLWare/esProc) - esProc SPL is a JVM-based programming language designed for structured data computation, serving as both a data analysis tool and an embedded computing engine.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
@@ -1241,7 +1244,7 @@
 - [ostafen/clover](https://github.com/ostafen/clover) - A lightweight document-oriented NoSQL database written in pure Golang.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust dark magics by implementing an expression framework in database systems
+- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn advanced Rust techniques by building an expression evaluation framework for a database system.
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
 - [bigchaindb/bigchaindb](https://github.com/bigchaindb/bigchaindb) - Meet BigchainDB. The blockchain database.
 - [web3coach/the-blockchain-bar](https://github.com/web3coach/the-blockchain-bar) - The source-code for: "Build a Blockchain from Scratch in Go" eBook.
@@ -1362,7 +1365,7 @@
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [amerkurev/doku](https://github.com/amerkurev/doku) - 💽 Doku - Docker disk usage dashboard
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow engine for ops automation and AI-assisted operations. Open source and self-hostable: single binary, no DBMS. Define DAGs in declarative YAML. Built-in MCP server so AI agents can 
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hosted workflow orchestration in one binary. YAML DAGs, cron, AI agent steps, Web UI. Lightweight Airflow alternative, no database.
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway and AI Gateway
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
@@ -1669,6 +1672,7 @@
 
 ## font 
 
+- [danilo-znamerovszkij/draw-your-font](https://github.com/danilo-znamerovszkij/draw-your-font) - Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill.
 - [olikraus/u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [opentypejs/opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
@@ -1840,7 +1844,7 @@
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [canonical/lxd](https://github.com/canonical/lxd) - Powerful system container and virtual machine manager
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily.
@@ -1909,6 +1913,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hosted workflow orchestration in one binary. YAML DAGs, cron, AI agent steps, Web UI. Lightweight Airflow alternative, no database.
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
@@ -2260,6 +2265,7 @@
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Apple Silicon device emulator.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
@@ -2488,6 +2494,7 @@
 
 ## kubernetes 
 
+- [llm-d/llm-d](https://github.com/llm-d/llm-d) - Achieve state of the art inference performance with modern accelerators on Kubernetes
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [modelplaneai/modelplane](https://github.com/modelplaneai/modelplane) - The open source control plane for AI inference
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
@@ -2726,12 +2733,14 @@
 
 ## llm 
 
+- [llm-d/llm-d](https://github.com/llm-d/llm-d) - Achieve state of the art inference performance with modern accelerators on Kubernetes
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 - [tolitius/cupel](https://github.com/tolitius/cupel) - discover LLMs punching above their weight
 - [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) - A straightforward method for training your LLM, from downloading data to generating text.
-- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
+- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
 - [ALucek/ppt2desc](https://github.com/ALucek/ppt2desc) - Convert PowerPoint files into semantically rich text using vision language models
 - [alex-ilgayev/MCPSpy](https://github.com/alex-ilgayev/MCPSpy) - MCP Monitoring with eBPF
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
@@ -2749,6 +2758,7 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hosted workflow orchestration in one binary. YAML DAGs, cron, AI agent steps, Web UI. Lightweight Airflow alternative, no database.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) - Nvidia GPU exporter for prometheus using nvidia-smi binary
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
@@ -2827,7 +2837,7 @@
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
-- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The menu bar manager for macOS
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [ggml-org/Llama-macOS](https://github.com/ggml-org/Llama-macOS) - A cosy home for your LLMs.
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
@@ -2835,6 +2845,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) - A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -2911,7 +2922,7 @@
 
 ## material-design 
 
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
 - [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [matyunya/smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Svelte and Tailwind CSS
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
@@ -3270,6 +3281,9 @@
 
 ## others 
 
+- [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
+- [midudev/canirun.ai](https://github.com/midudev/canirun.ai) - Can I Run AI
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [cambecc/earth](https://github.com/cambecc/earth) - a project to visualize global weather conditions
 - [tangrams/heightmapper](https://github.com/tangrams/heightmapper) - interactive heightmaps from terrain data
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
@@ -3341,7 +3355,7 @@
 - [realityinspector/teeny-tiny-t9](https://github.com/realityinspector/teeny-tiny-t9) - a teeny tiny shape that unfolds to t9 through Inverse Morphogenic Training (IMT)
 - [SweepSweep2/GDDrive](https://github.com/SweepSweep2/GDDrive) - Cloud Storage Implemented in Geometry Dash
 - [s-rah/onionscan](https://github.com/s-rah/onionscan) - OnionScan is a free and open source tool for investigating the Dark Web.
-- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
 - [lanrat/day-night-map](https://github.com/lanrat/day-night-map) - Simple Day Night Map
 - [mwood77/ws4kp-international](https://github.com/mwood77/ws4kp-international) - A web-based WeatherStar 4000 that supports international locations.
 - [p2r3/convert](https://github.com/p2r3/convert) - Truly universal online file converter
@@ -3441,7 +3455,6 @@
 - [mastomii/slotflare-manager](https://github.com/mastomii/slotflare-manager) - 
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [xai-org/grok-prompts](https://github.com/xai-org/grok-prompts) - Prompts for our Grok chat assistant and the `@grok` bot on X.
-- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [VectorSpaceLab/OmniGen2](https://github.com/VectorSpaceLab/OmniGen2) - OmniGen2: Exploration to Advanced Multimodal Generation. https://arxiv.org/abs/2506.18871
 - [p2r3/bf16](https://github.com/p2r3/bf16) - Visual Brainfuck game runtime
@@ -4559,7 +4572,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
-- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A course of building an LSM-Tree storage engine (database) in a week.
+- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - learn database internals by building a storage engine in Rust
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
@@ -4578,7 +4591,7 @@
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [localfirstapp/1History](https://github.com/localfirstapp/1History) - All your history in one file.
-- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust dark magics by implementing an expression framework in database systems
+- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn advanced Rust techniques by building an expression evaluation framework for a database system.
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
@@ -4697,8 +4710,8 @@
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow engine for ops automation and AI-assisted operations. Open source and self-hostable: single binary, no DBMS. Define DAGs in declarative YAML. Built-in MCP server so AI agents can 
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hosted workflow orchestration in one binary. YAML DAGs, cron, AI agent steps, Web UI. Lightweight Airflow alternative, no database.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -4876,8 +4889,9 @@
 ## swift 
 
 - [Augani/dory](https://github.com/Augani/dory) - A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Universal for Intel and Apple silicon.
-- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The menu bar manager for macOS
 - [ggml-org/Llama-macOS](https://github.com/ggml-org/Llama-macOS) - A cosy home for your LLMs.
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
@@ -4891,7 +4905,7 @@
 ## swiftui 
 
 - [Augani/dory](https://github.com/Augani/dory) - A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Universal for Intel and Apple silicon.
-- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The menu bar manager for macOS
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
@@ -5263,7 +5277,7 @@
 - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS.
 - [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 - [nanmu42/orly](https://github.com/nanmu42/orly) - :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [matschik/component-party.dev](https://github.com/matschik/component-party.dev) - 🎉 Web component JS frameworks overview by their syntax and features
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
