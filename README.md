@@ -131,7 +131,7 @@
 
 - [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) - lightweight system-level observability for AI Agents
 - [n132/cedalion](https://github.com/n132/cedalion) - Register of found linux kernel bugs. https://bugs.sh presents each disclosed issue with a reproduction environment and a PoC that triggers the reported vulnerability. This repository contains the publ
-- [sqliteai/warp](https://github.com/sqliteai/warp) - Run the full 2.78-trillion-parameter Kimi K3 model or GLM-5.3-Flash beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.
+- [sqliteai/warp](https://github.com/sqliteai/warp) - Run the full 2.78-trillion-parameter Kimi K3 model, DeepSeek V4.1 Flash or GLM-5.3-Flash beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inferen
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [olikraus/u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
 - [amadvance/snapraid](https://github.com/amadvance/snapraid) - A backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures
@@ -228,7 +228,7 @@
 - [TomWildenhain/MagicPNG](https://github.com/TomWildenhain/MagicPNG) - Merge two PNG images into one utilizing transparency
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [kas/percentage](https://github.com/kas/percentage) - See your battery percentage in the Windows 10 system tray
-- [StreamWhatYouHear/SWYH](https://github.com/StreamWhatYouHear/SWYH) - Stream the sound from your PC to an UPnP/DLNA device
+- [StreamWhatYouHear/SWYH](https://github.com/StreamWhatYouHear/SWYH) - Stream What You Hear (SWYH) is a lightweight Windows application that streams your PC audio to UPnP/DLNA-compatible devices
 
 ## C++ 
 
@@ -454,7 +454,7 @@
 - [liweiyi88/onedump](https://github.com/liweiyi88/onedump) - Effortless database administration tool
 - [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [versity/versitygw](https://github.com/versity/versitygw) - A simple to deploy but feature rich S3 object storage server for your filesystem
-- [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero
+- [laravel/zeropod](https://github.com/laravel/zeropod) - pod that scales down to zero
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS.
 - [mtardy/bpfmemapie](https://github.com/mtardy/bpfmemapie) - A tool to render a pie chart of memory usage (bytes_memlock) of BPF maps on the system 🥧
 - [voidint/g](https://github.com/voidint/g) - Golang Version Manager
@@ -492,7 +492,7 @@
 - [nanmu42/orly](https://github.com/nanmu42/orly) - :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -617,6 +617,7 @@
 
 ## HTML 
 
+- [atomfinger/nomeatproxy](https://github.com/atomfinger/nomeatproxy) - 
 - [thewhimnasium/sleepscroll](https://github.com/thewhimnasium/sleepscroll) - An anti-doomscroll designed to put you to sleep instead of keeping you awake
 - [emn178/online-tools](https://github.com/emn178/online-tools) - Online tools provides md2, md5, sha1, sha2, sha512, bas64, html encode / decode functions
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
@@ -817,6 +818,7 @@
 - [seatedro/yeaag](https://github.com/seatedro/yeaag) - yeaag
 - [brunoimbrizi/interactive-particles](https://github.com/brunoimbrizi/interactive-particles) - 
 - [vasturiano/hilbert-chart](https://github.com/vasturiano/hilbert-chart) - Hilbert space-filling curve chart
+- [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [brunosimon/webgl-black-hole](https://github.com/brunosimon/webgl-black-hole) - 
@@ -1124,7 +1126,6 @@
 ## Markdown 
 
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - Free domain registration and practical DNS learning resources for everyone.
-- [analysis-tools-dev/dynamic-analysis](https://github.com/analysis-tools-dev/dynamic-analysis) - ⚙️ A curated list of dynamic analysis tools and linters for all programming languages, binaries, and more.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
@@ -1155,7 +1156,6 @@
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [sunzenshen/tis-100-solutions](https://github.com/sunzenshen/tis-100-solutions) - My solutions to the assembly programming game TIS-100
-- [cpuu/awesome-fuzzing](https://github.com/cpuu/awesome-fuzzing) - A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [terminaltrove/lumon](https://github.com/terminaltrove/lumon) - The work is mysterious and important...
 - [Psiphon-Inc/psiphon](https://github.com/Psiphon-Inc/psiphon) - Meta-repo with info about and links to Psiphon resources
@@ -1301,6 +1301,7 @@
 - [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
 - [buku-masjid/buku-masjid](https://github.com/buku-masjid/buku-masjid) - Sistem Keuangan Masjid
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [chenxuuu/shit-url](https://github.com/chenxuuu/shit-url) - 屑链生成，最屑的短链接生成站
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [nigaphp/niga](https://github.com/nigaphp/niga) - Niga framework
@@ -1347,7 +1348,7 @@
 
 - [swapnildahiphale/OpenSRE](https://github.com/swapnildahiphale/OpenSRE) - OpenSRE — the memory-first AI SRE. Self-hosted incident investigation with episodic memory, knowledge graph, web console, Slack & Teams. opensre.in
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
-- [hasso5703/dgx-spark-qwen38](https://github.com/hasso5703/dgx-spark-qwen38) - Fastest measured Qwen3.8-27B config for DGX Spark (GB10): SGLang + NVFP4 + DFlash2, deterministic boots, 65 tok/s greedy median. Flash-Next 176B on one box. One command, everything pinned, lossless.
+- [hasso5703/dgx-spark-qwen38](https://github.com/hasso5703/dgx-spark-qwen38) - Fastest measured Qwen3.8-27B config for DGX Spark (GB10): SGLang + NVFP4 + DFlash2, 72 tok/s greedy median, 1M context, deterministic boots. Flash-Next 176B on one box. One command, everything pinned,
 - [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 - [JRYCodesYT/JRYBeats](https://github.com/JRYCodesYT/JRYBeats) - Simple Beatmaker/Audio Sequencer built with Python and Pygame.
 - [SubatomicPlanets/HelloBinary](https://github.com/SubatomicPlanets/HelloBinary) - A Windows x64 exe Hello World program fully written by hand in binary
@@ -1361,7 +1362,6 @@
 - [IBM/AssetOpsBench](https://github.com/IBM/AssetOpsBench) - AssetOpsBench - Industry 4.0: A unified benchmark and framework for building, orchestrating, and evaluating domain-specific AI agents for Industry 4.0 asset operations and maintenance, with 460+ scena
 - [ozh/github-colors](https://github.com/ozh/github-colors) - 🌈 Github colors for all the languages
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
-- [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
 - [Thinkscape/arc-to-zen](https://github.com/Thinkscape/arc-to-zen) - Migrate all Arc workspaces to Zen browser
 - [tolitius/cupel](https://github.com/tolitius/cupel) - discover LLMs punching above their weight
 - [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) - A straightforward method for training your LLM, from downloading data to generating text.
@@ -1369,16 +1369,16 @@
 - [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431) - Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era.
 - [microsoft/AIOpsLab](https://github.com/microsoft/AIOpsLab) - A holistic framework to enable the design, development, and evaluation of autonomous AIOps agents.
+- [cpuu/awesome-fuzzing](https://github.com/cpuu/awesome-fuzzing) - A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 - [realityinspector/teeny-tiny-t9](https://github.com/realityinspector/teeny-tiny-t9) - a teeny tiny shape that unfolds to t9 through Inverse Morphogenic Training (IMT)
 - [SweepSweep2/GDDrive](https://github.com/SweepSweep2/GDDrive) - Cloud Storage Implemented in Geometry Dash
 - [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
 - [0x0be/yesitsme](https://github.com/0x0be/yesitsme) - Simple OSINT script to find Instagram profiles by name and e-mail/phone
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, determi
 - [teorth/erdosproblems](https://github.com/teorth/erdosproblems) - A community database for the problems on the erdosproblems.com site
 - [softcane/KubeAttention](https://github.com/softcane/KubeAttention) - KubeAttention is a residency-aware scheduler plugin that uses machine learning to detect and avoid noisy neighbor interference.
 - [modal-labs/gpu-glossary](https://github.com/modal-labs/gpu-glossary) - GPU documentation for humans
-- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Machine Learning Systems
+- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai
 - [Quenary/tugtainer](https://github.com/Quenary/tugtainer) - An application for automated Docker container updates with a web UI
 - [letsdiscodev/disco-daemon](https://github.com/letsdiscodev/disco-daemon) - 
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
@@ -1449,7 +1449,7 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [supakeen/pinnwand](https://github.com/supakeen/pinnwand) - A Python pastebin that tries to keep it simple.
-- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints th
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an Open-source Privileged Access Management (PAM) platform with AI-powered capabilities, providing DevOps and IT teams a unified workspace to securely access SSH, RDP, Kubernetes, databa
 - [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [peeringdb/peeringdb](https://github.com/peeringdb/peeringdb) - Server code for https://www.peeringdb.com/
 - [brendangregg/bpf-perf-tools-book](https://github.com/brendangregg/bpf-perf-tools-book) - Official repository for the BPF Performance Tools book
@@ -1639,10 +1639,10 @@
 
 ## Rust 
 
-- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
+- [egoist/quickgui](https://github.com/egoist/quickgui) - An experimental GPU-rendered GUI framework, no webview.
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
 - [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up.
 - [0xe7f79c/israeli-alloc](https://github.com/0xe7f79c/israeli-alloc) - Allocate memory on a innocent victim programs address space, just like the IDF intended.
-- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [larscom/gitlab-ci-dashboard](https://github.com/larscom/gitlab-ci-dashboard) - Gitlab CI Dashboard will provide you a global overview of all pipelines, schedules and their status within a single group
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
@@ -1655,6 +1655,7 @@
 - [intelligentwolf/WolfScale](https://github.com/intelligentwolf/WolfScale) - Free tools for building robust, clustered server infrastructure — WolfStack, WolfScale, WolfDisk, WolfNet
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
+- [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
 - [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
 - [Spu7Nix/obamify](https://github.com/Spu7Nix/obamify) - revolutionary new technology that turns any image into obama
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
@@ -1701,13 +1702,13 @@
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [Colonial-Dev/satpaper](https://github.com/Colonial-Dev/satpaper) - Display near-real-time satellite imagery on your desktop.
 - [junkdog/exabind](https://github.com/junkdog/exabind) - animated TUI for viewing KDE shortcuts
+- [analysis-tools-dev/dynamic-analysis](https://github.com/analysis-tools-dev/dynamic-analysis) - ⚙️ A curated list of dynamic analysis tools and linters for all programming languages, binaries, and more.
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn't need additional client-side software
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - learn database internals by building a storage engine in Rust
@@ -1752,7 +1753,6 @@
 
 ## SCSS 
 
-- [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [khang-nd/7.css](https://github.com/khang-nd/7.css) - A JS-independent, tree-shakeable CSS framework for building faithful recreations of the Windows 7 UI.
 - [botoxparty/XP.css](https://github.com/botoxparty/XP.css) - A CSS framework for building faithful recreations of operating system GUIs.
 - [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
@@ -1782,12 +1782,14 @@
 
 ## Shell 
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [mayukh4/linux-android](https://github.com/mayukh4/linux-android) - Turn an old Android phone into a GPU-accelerated Linux desktop (XFCE4 / KDE Plasma / LXQt / MATE) or a Home Assistant smart home server — using Termux. No root, no PC, no cloud.
 - [usgraphics/usgc-machine-report](https://github.com/usgraphics/usgc-machine-report) - TR-100 Machine Report
 - [llm-d/llm-d](https://github.com/llm-d/llm-d) - Achieve state of the art inference performance with modern accelerators on Kubernetes
 - [nuver-labs/vps-audit](https://github.com/nuver-labs/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
 - [toboshii/home-ops](https://github.com/toboshii/home-ops) - My home Kubernetes cluster managed by GitOps (Flux), deployed on Talos Linux.
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, determi
 - [Stan-breaks/ytsurf](https://github.com/Stan-breaks/ytsurf) - YouTube in your terminal. Clean and distraction-free.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [testssl/testssl.sh](https://github.com/testssl/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
@@ -1883,7 +1885,7 @@
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
+- [buresdv/Cork](https://github.com/buresdv/Cork) - [NO AI] Fast GUI for Homebrew written in SwiftUI
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
@@ -1915,11 +1917,13 @@
 
 ## TypeScript 
 
+- [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [simion/termic](https://github.com/simion/termic) - Open-source Conductor.build alternative. Runs the real claude/gemini/codex CLIs in real terminals, no SDK middleman
 - [openocta/openocta](https://github.com/openocta/openocta) - OpenOcta is an open-source AIOps Agent installed on Windows & macOS.
 - [xevrion/breakscale](https://github.com/xevrion/breakscale) - Build a system, load it until it breaks, and watch why. A system design simulator for learning distributed systems.
 - [nekowawolf/rvenvale](https://github.com/nekowawolf/rvenvale) - Open-source, self-hosted image hosting with GitHub CDN
 - [OpenRouterLabs/spawn](https://github.com/OpenRouterLabs/spawn) - Spawn any agent, on any cloud
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 - [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
 - [midudev/canirun.ai](https://github.com/midudev/canirun.ai) - Can I Run AI
@@ -2024,7 +2028,6 @@
 - [mitre-attack/attack-workbench-frontend](https://github.com/mitre-attack/attack-workbench-frontend) - An application allowing users to explore, create, annotate, and share extensions of the MITRE ATT&CK® knowledge base. This repository contains an Angular-based web application providing the user inter
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 - [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - ✨ AI-powered markdown editor - leverage LLMs with your documents - 100% local or in the cloud
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Kubernetes Dashboard for Multi-Cluster Management Real-Time, Self-Hosted, Single Binary, AI-powered. Manage, monitor & debug K8s clusters in your browser, no cloud, no agents.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [ishan0102/rsrch.space](https://github.com/ishan0102/rsrch.space) - Stream of my favorite papers and links
@@ -2046,6 +2049,7 @@
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [theRubberDuckiee/share-brewfiles-website](https://github.com/theRubberDuckiee/share-brewfiles-website) - 
+- [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
 - [qntm/hatetris](https://github.com/qntm/hatetris) - Tetris which always gives you the worst piece
