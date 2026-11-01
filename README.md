@@ -128,6 +128,7 @@
 
 ## C 
 
+- [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 - [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) - lightweight system-level observability for AI Agents
 - [n132/cedalion](https://github.com/n132/cedalion) - Register of found linux kernel bugs. https://bugs.sh presents each disclosed issue with a reproduction environment and a PoC that triggers the reported vulnerability. This repository contains the publ
 - [sqliteai/warp](https://github.com/sqliteai/warp) - Run the full 2.78-trillion-parameter Kimi K3 model, DeepSeek V4.1 Flash or GLM-5.3-Flash beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inferen
@@ -135,7 +136,7 @@
 - [olikraus/u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
 - [amadvance/snapraid](https://github.com/amadvance/snapraid) - A backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures
 - [o7-machinehum/phantomdrive](https://github.com/o7-machinehum/phantomdrive) - Seemingly normal USB drive with a hidden security feature
-- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 162 languages, sub-ms queries, 99% fewer tokens. Single static binary
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.
 - [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) - 
 - [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
@@ -275,7 +276,7 @@
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [jonathanpaulson/grabby_aliens](https://github.com/jonathanpaulson/grabby_aliens) - 
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is a high-performance analytical database system
 - [ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
@@ -358,7 +359,6 @@
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [bostrot/wslmanager](https://github.com/bostrot/wslmanager) - GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. Install, back up, move and configure distros without CLI flags; AI assistant with tools, MCP server for agents, remote WSL 
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
-- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [flutter-team-archive/pinball](https://github.com/flutter-team-archive/pinball) - Google I/O 2022 Pinball game built with Flutter and Firebase
 - [filiph/unsure](https://github.com/filiph/unsure) - Unsure Calculator
@@ -385,7 +385,7 @@
 
 - [kai-scheduler/KAI-Scheduler](https://github.com/kai-scheduler/KAI-Scheduler) - KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale
 - [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous GPU Sharing on Kubernetes
-- [google/ax](https://github.com/google/ax) - Google's open agentic orchestration runtime
+- [google/ax](https://github.com/google/ax) - Agent Executor (AX) is Google's open agentic orchestration runtime
 - [DataDog/KubeHound](https://github.com/DataDog/KubeHound) - Tool for building Kubernetes attack paths
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography) - Use LLMs to hide messages inside normal looking conversations
@@ -406,7 +406,7 @@
 - [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB
 - [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) - Simplifies IPv4/IPv6 CIDR network prefix management with counting, overlap checking, explanation, and subdivision.
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
-- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
+- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this rep
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop) - A top-like tool for your Kubernetes cluster metrics
@@ -435,7 +435,7 @@
 - [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs
 - [kubepug/kubepug](https://github.com/kubepug/kubepug) - Kubernetes PreUpGrade (Checker)
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes.
 - [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output
 - [MacroPower/kat](https://github.com/MacroPower/kat) - TUI and rule-based rendering engine for Kubernetes manifests
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
@@ -451,7 +451,7 @@
 - [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster creates tenant clusters: fully isolated environments delivered as managed Kubernetes, or as the foundation for Slurm, Ray, Run:ai and inference clusters. Each gets its own API server, CRDs an
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (Kubernetes-based Efficient Power Level Exporter) is a Prometheus exporter that measures energy consumption at the Kubernetes Pod and Node level. It reads hardware sensors, attributes power to 
+- [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler is CNCF Sandbox project to attribute the energy use of Kubernetes workloads. Let's make every watt matter. ⚡
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
@@ -624,6 +624,7 @@
 
 ## HTML 
 
+- [galadran/we-have-a-problem.com](https://github.com/galadran/we-have-a-problem.com) - 
 - [Noniv/web-ocean](https://github.com/Noniv/web-ocean) - Real-time WebGPU ocean renderer written from scratch, no engine. FFT waves, whitecaps, sun glitter, physically based sunset sky with clouds, free camera. Built with Claude Code (Opus 5.5). Opens from 
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [thewhimnasium/sleepscroll](https://github.com/thewhimnasium/sleepscroll) - An anti-doomscroll designed to put you to sleep instead of keeping you awake
@@ -779,7 +780,7 @@
 - [profmusgrave/anotherday](https://github.com/profmusgrave/anotherday) - Another day closer to the end.
 - [lanrat/day-night-map](https://github.com/lanrat/day-night-map) - Simple Day Night Map
 - [mwood77/ws4kp-international](https://github.com/mwood77/ws4kp-international) - A web-based WeatherStar 4000 that supports international locations.
-- [sdi2200262/agentic-project-management](https://github.com/sdi2200262/agentic-project-management) - A framework for managing complex projects with spec-driven multi-agent workflows.
+- [sdi2200262/agentic-project-management](https://github.com/sdi2200262/agentic-project-management) - A Spec-Driven Multi-Agent Framework for AI-Assisted Software Engineering
 - [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 - [dimartarmizi/map-to-poster](https://github.com/dimartarmizi/map-to-poster) - MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.
 - [Hamza-Rasheed-25/azaan-cli](https://github.com/Hamza-Rasheed-25/azaan-cli) - A lightweight, beautiful, and interactive CLI to check Azaan times anywhere in the world.
@@ -850,7 +851,7 @@
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
 - [johannesvollmer/regex-nodes](https://github.com/johannesvollmer/regex-nodes) - Visualize and edit regular expressions for use in javascript.
 - [paperjs/paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
-- [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
+- [hainguyents13/mechvibes-electron](https://github.com/hainguyents13/mechvibes-electron) - Mechvibes Legacy: the original Electron version, no longer maintained. The official Mechvibes app is now at hainguyents13/mechvibes.
 - [Loskir/50-lines](https://github.com/Loskir/50-lines) - 
 - [superXdev/drama-smart-contract](https://github.com/superXdev/drama-smart-contract) - Sebuah implementasi smart contract untuk meng-arsipkan segala drama di sosmed :p
 - [ldapjs/node-ldapjs](https://github.com/ldapjs/node-ldapjs) - LDAP Client and Server API for node.js
@@ -1109,12 +1110,14 @@
 - [k0kubun/gitstar-ranking](https://github.com/k0kubun/gitstar-ranking) - GitHub star ranking for users, organizations and repositories
 - [kiwix/kiwix-android](https://github.com/kiwix/kiwix-android) - Kiwix for Android
 - [newhinton/disky](https://github.com/newhinton/disky) - An android filesystem analyzer that can show you the usage of your storage!
+- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [quran/quran_android](https://github.com/quran/quran_android) - a quran reading application for android
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 
 ## Lua 
 
+- [Stabyourself/nottetris2](https://github.com/Stabyourself/nottetris2) - A mess
 - [kognise/freak-in-the-sheets](https://github.com/kognise/freak-in-the-sheets) - csheets/sheetc
 - [tristan-f-r/maxwell](https://github.com/tristan-f-r/maxwell) - raw maxwell models and maxwell fan website
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway and AI Gateway
@@ -1162,6 +1165,7 @@
 
 ## Others 
 
+- [sazabi/cve.now](https://github.com/sazabi/cve.now) - A free, public vulnerability feed: CVE, GHSA, OSV, CISA KEV and EPSS merged into one entry per vulnerability. RSS, JSON API and MCP. Docs and issues only.
 - [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) - Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
 - [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
@@ -1233,7 +1237,7 @@
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [Experience-Monks/math-as-code](https://github.com/Experience-Monks/math-as-code) - a cheat-sheet for mathematical notation in code form
 - [gostor/awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
-- [matter-labs/awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).
+- [matter-labs-archive/awesome-zero-knowledge-proofs](https://github.com/matter-labs-archive/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).
 - [pomerium/awesome-zero-trust](https://github.com/pomerium/awesome-zero-trust) - A curated collection of awesome resources for the zero-trust security model.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
@@ -1313,7 +1317,7 @@
 - [buku-masjid/buku-masjid](https://github.com/buku-masjid/buku-masjid) - Sistem Keuangan Masjid
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 - [chenxuuu/shit-url](https://github.com/chenxuuu/shit-url) - 屑链生成，最屑的短链接生成站
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [nigaphp/niga](https://github.com/nigaphp/niga) - Niga framework
 - [pgrimaud/git-stars](https://github.com/pgrimaud/git-stars) - Discover your ranking on GitHub
 - [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - h-m-m, or Hackers Mind Map, is a simple, fast, keyboard-centric terminal-based tool for working with mind maps.
@@ -1355,19 +1359,20 @@
 
 ## Python 
 
+- [divagr18/qwenputer](https://github.com/divagr18/qwenputer) - A computer, compiled into the weights of a language model. An exact CPU inside Qwen3.5-4B, with Gated DeltaNet state as RAM.
+- [paulip114/sre-practice-skills](https://github.com/paulip114/sre-practice-skills) - SRE Practice Skills for Claude Code
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 - [AdamLaurie/RFIDIOt](https://github.com/AdamLaurie/RFIDIOt) - python RFID / NFC library & tools
-- [terrafying/ai-torture-chamber](https://github.com/terrafying/ai-torture-chamber) - The AI Torture Chamber: steering small open models into strong valence states and measuring what they say and do. Live at wirehead.agency.
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [theplantpsychologist/SEARCH-22.5](https://github.com/theplantpsychologist/SEARCH-22.5) - Spectral Embedding Archive for Rational Crease pattern Hyperspace - 22.5
 - [swapnildahiphale/OpenSRE](https://github.com/swapnildahiphale/OpenSRE) - OpenSRE — the memory-first AI SRE. Self-hosted incident investigation with episodic memory, knowledge graph, web console, Slack & Teams. opensre.in
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
-- [hasso5703/dgx-spark-qwen38](https://github.com/hasso5703/dgx-spark-qwen38) - One command turns a DGX Spark or ASUS Ascent GX10 into a private AI server: seven measured, pinned AI lanes (text up to 1M tokens, images, video with sound), run from a local cockpit on a laptop or a 
+- [hasso5703/dgx-spark-qwen38](https://github.com/hasso5703/dgx-spark-qwen38) - dgx-spark-qwen38 is an open-source installer that turns an NVIDIA DGX Spark, or any GB10 machine (ASUS, Dell, HP, Lenovo, MSI, GIGABYTE, Acer), into a private AI server in one command: measured model 
 - [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 - [JRYCodesYT/JRYBeats](https://github.com/JRYCodesYT/JRYBeats) - Simple Beatmaker/Audio Sequencer built with Python and Pygame.
 - [SubatomicPlanets/HelloBinary](https://github.com/SubatomicPlanets/HelloBinary) - A Windows x64 exe Hello World program fully written by hand in binary
-- [llm-d/llm-d](https://github.com/llm-d/llm-d) - Achieve state of the art inference performance with modern accelerators on Kubernetes
+- [llm-d/llm-d](https://github.com/llm-d/llm-d) - State of the art inference performance with modern accelerators on Kubernetes
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [modelplaneai/modelplane](https://github.com/modelplaneai/modelplane) - The open source control plane for AI inference
@@ -1393,7 +1398,6 @@
 - [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
 - [0x0be/yesitsme](https://github.com/0x0be/yesitsme) - Simple OSINT script to find Instagram profiles by name and e-mail/phone
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, determi
 - [teorth/erdosproblems](https://github.com/teorth/erdosproblems) - A community database for the problems on the erdosproblems.com site
 - [softcane/KubeAttention](https://github.com/softcane/KubeAttention) - KubeAttention is a residency-aware scheduler plugin that uses machine learning to detect and avoid noisy neighbor interference.
 - [modal-labs/gpu-glossary](https://github.com/modal-labs/gpu-glossary) - GPU documentation for humans
@@ -1404,6 +1408,7 @@
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
 - [cmu-db/dbdb.io](https://github.com/cmu-db/dbdb.io) - The On-line Database of Databases
+- [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - Menu-driven Proxmox VE toolkit — post-install, backup/restore and a live web dashboard for the homelab.
 - [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: 100% Fully-Automated Agent-Native Trading"
 - [scottchiefbaker/dool](https://github.com/scottchiefbaker/dool) - Linux CLI tool providing real-time system resource monitoring
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
@@ -1660,7 +1665,7 @@
 ## Rust 
 
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
-- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 106 services, 7,612 operations, true 100% Smithy conformance (257,288/257,288 variants pass). No account, no auth token, no paid tier.
+- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 107 services, 7,657 operations, true 100% Smithy conformance (258,545/258,545 variants pass). No account, no auth token, no paid tier.
 - [egoist/quickgui](https://github.com/egoist/quickgui) - An experimental GPU-rendered GUI framework, no webview.
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Dock
 - [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up.
@@ -1804,6 +1809,7 @@
 
 ## Shell 
 
+- [bidual/awesome-dgx-spark](https://github.com/bidual/awesome-dgx-spark) - A curated list of tools, guides, playbooks, and resources for the NVIDIA DGX Spark (GB10 Grace Blackwell personal AI supercomputer).
 - [conallob/SRE-Alerting-Guidelines](https://github.com/conallob/SRE-Alerting-Guidelines) - 
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
@@ -1812,6 +1818,7 @@
 - [nuver-labs/vps-audit](https://github.com/nuver-labs/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
 - [toboshii/home-ops](https://github.com/toboshii/home-ops) - My home Kubernetes cluster managed by GitOps (Flux), deployed on Talos Linux.
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, determi
 - [Stan-breaks/ytsurf](https://github.com/Stan-breaks/ytsurf) - YouTube in your terminal. Clean and distraction-free.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 - [testssl/testssl.sh](https://github.com/testssl/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
@@ -1841,14 +1848,14 @@
 - [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [SenpaiHunters/ArcAdvanced](https://github.com/SenpaiHunters/ArcAdvanced) - Arc Advanced ™
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚🇺🇸🗽Secure remote browsing anywhere, any way you like it.
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚🇺🇸🗽Secure remote browsing anywhere, any way you like it. Since 2018.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [jpetazzo/nsenter](https://github.com/jpetazzo/nsenter) - 
 - [wolfi-dev/os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 750 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 850 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [cburgmer/json-path-comparison](https://github.com/cburgmer/json-path-comparison) - Comparison of the different implementations of JSONPath and language agnostic test suite.
 - [metal3d/bashsimplecurses](https://github.com/metal3d/bashsimplecurses) - A simple curses library made in bash to draw terminal interfaces
 - [tldr-devops/startpack](https://github.com/tldr-devops/startpack) - Selfhosted tech starter pack for development of new project or startup
@@ -1887,7 +1894,7 @@
 - [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
 - [yizhe-ang/matrix-explorable](https://github.com/yizhe-ang/matrix-explorable) - An Explorable Explanation of Matrices and Linear Transformations
 - [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
-- [primocms/primo](https://github.com/primocms/primo) - Agent-native visual CMS. Build sites with Claude/Codex/whatever, manage them visually.
+- [primocms/primo](https://github.com/primocms/primo) - Build client-editable sites with Claude, Codex, Cursor, or whatever comes next.
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgr
 - [matyunya/smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Svelte and Tailwind CSS
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
@@ -1901,6 +1908,7 @@
 
 - [utsmannn/floating-ayah](https://github.com/utsmannn/floating-ayah) - 
 - [primayudantra/salah](https://github.com/primayudantra/salah) - 
+- [slopus/happy](https://github.com/slopus/happy) - Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for.
 - [Augani/dory](https://github.com/Augani/dory) - Dory is the complete local development system for Apple Silicon: Docker, Compose, Kubernetes, virtual machines, and policy-bound agent sandboxes.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
@@ -1946,17 +1954,16 @@
 
 - [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [slopus/happy](https://github.com/slopus/happy) - Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for.
 - [simion/termic](https://github.com/simion/termic) - Open-source Conductor.build alternative. Runs the real claude/gemini/codex CLIs in real terminals, no SDK middleman
 - [openocta/openocta](https://github.com/openocta/openocta) - OpenOcta is an open-source AIOps Agent installed on Windows & macOS.
-- [xevrion/breakscale](https://github.com/xevrion/breakscale) - Build a system, load it until it breaks, and watch why. A system design simulator for learning distributed systems.
+- [workersio/breakscale](https://github.com/workersio/breakscale) - Build a system, load it until it breaks, and watch why. A system design simulator for learning distributed systems.
 - [nekowawolf/rvenvale](https://github.com/nekowawolf/rvenvale) - Open-source, self-hosted image hosting with GitHub CDN
 - [OpenRouterLabs/spawn](https://github.com/OpenRouterLabs/spawn) - Spawn any agent, on any cloud
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A real browser inside your terminal
 - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 - [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
 - [midudev/canirun.ai](https://github.com/midudev/canirun.ai) - Can I Run AI
-- [facebook/astryx](https://github.com/facebook/astryx) - An open source design system that's fully customizable and agent ready
+- [meta/astryx](https://github.com/meta/astryx) - An open source design system that's fully customizable and agent ready
 - [microsoft/flint-chart](https://github.com/microsoft/flint-chart) - 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.
 - [jpettitt/geo-clock-card](https://github.com/jpettitt/geo-clock-card) - A live world clock modeled after Geochron
 - [JustSteveKing/apiguide.dev](https://github.com/JustSteveKing/apiguide.dev) - The flagship reference site for modern, authoritative API design patterns.
@@ -1998,7 +2005,6 @@
 - [junobuild/juno](https://github.com/junobuild/juno) - Open-Source SDK for building apps
 - [Hugo-Dz/exe](https://github.com/Hugo-Dz/exe) - Pack your web app as a single executable binary with zero runtime dependencies
 - [shinshin86/oh-my-logo](https://github.com/shinshin86/oh-my-logo) - Display giant ASCII-art logos with colorful gradients in your terminal — like Claude Code or Gemini CLI.
-- [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - Menu-driven Proxmox VE toolkit — post-install, backup/restore and a live web dashboard for the homelab.
 - [patorjk/video-to-turing-pattern](https://github.com/patorjk/video-to-turing-pattern) - Script that turns videos into turing patterns
 - [linagora/twake-drive-legacy](https://github.com/linagora/twake-drive-legacy) - LEGACY: The open-source alternative to Google Drive.
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
